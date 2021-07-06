@@ -1,0 +1,45 @@
+[33mcommit 46ae142ef4f71bcb79b4888cfd62e825d26d9bfb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mehdi <mehdi.rezvani@gmail.com>
+Date:   Tue Jul 6 15:05:32 2021 +0430
+
+    adding H2
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 977e562..4e60709 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,5 +8,6 @@[m
+   </head>[m
+   <body>[m
+     <h1>hello world</h1>[m
+[32m+[m[32m    <h2>new line</h2>[m
+   </body>[m
+ </html>[m
+
+[33mcommit cc39d5122197d8612b33cadb161bb16252abc0e0[m
+Author: Mehdi <mehdi.rezvani@gmail.com>
+Date:   Tue Jul 6 13:49:14 2021 +0430
+
+    adding H1 to file
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..977e562[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m  <head>[m
+[32m+[m[32m    <meta charset="UTF-8" />[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge" />[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0" />[m
+[32m+[m[32m    <title>Document</title>[m
+[32m+[m[32m  </head>[m
+[32m+[m[32m  <body>[m
+[32m+[m[32m    <h1>hello world</h1>[m
+[32m+[m[32m  </body>[m
+[32m+[m[32m</html>[m
+[1mdiff --git a/style.css b/style.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
